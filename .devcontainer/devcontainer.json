@@ -1,7 +1,1 @@
-{
-  "image": "mcr.microsoft.com/devcontainers/universal:2",
-  "features": {    "ghcr.io/devcontainers/features/chrome:1": {
-      "installDevTools": false // optional, set to true if you need Chrome DevTools
-    }
-}
-}
+
